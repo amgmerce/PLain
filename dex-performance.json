@@ -1,0 +1,238 @@
+{
+  "Phoenix→Raydium": {
+    "opportunities": 1,
+    "totalProfit": 0.6861808926467049,
+    "tokens": {
+      "SOL": {
+        "count": 1,
+        "totalProfit": 0.6861808926467049
+      }
+    },
+    "lastProfit": 0.6861808926467049,
+    "lastDetected": "2025-03-14T20:31:13.691Z"
+  },
+  "Phoenix→OpenBook": {
+    "opportunities": 1,
+    "totalProfit": 0.6677885316523899,
+    "tokens": {
+      "SOL": {
+        "count": 1,
+        "totalProfit": 0.6677885316523899
+      }
+    },
+    "lastProfit": 0.6677885316523899,
+    "lastDetected": "2025-03-14T20:31:13.694Z"
+  },
+  "Phoenix→Jupiter": {
+    "opportunities": 1,
+    "totalProfit": 0.6513963535735771,
+    "tokens": {
+      "SOL": {
+        "count": 1,
+        "totalProfit": 0.6513963535735771
+      }
+    },
+    "lastProfit": 0.6513963535735771,
+    "lastDetected": "2025-03-14T20:31:13.703Z"
+  },
+  "Phoenix→Meteora": {
+    "opportunities": 1,
+    "totalProfit": 0.6788578170545926,
+    "tokens": {
+      "SOL": {
+        "count": 1,
+        "totalProfit": 0.6788578170545926
+      }
+    },
+    "lastProfit": 0.6788578170545926,
+    "lastDetected": "2025-03-14T20:31:13.753Z"
+  },
+  "Phoenix→Orca": {
+    "opportunities": 1,
+    "totalProfit": 0.6600793114228207,
+    "tokens": {
+      "SOL": {
+        "count": 1,
+        "totalProfit": 0.6600793114228207
+      }
+    },
+    "lastProfit": 0.6600793114228207,
+    "lastDetected": "2025-03-14T20:31:13.776Z"
+  },
+  "Drift→Raydium": {
+    "opportunities": 2,
+    "totalProfit": 1.4268517663128002,
+    "tokens": {
+      "SOL": {
+        "count": 2,
+        "totalProfit": 1.4268517663128002
+      }
+    },
+    "lastProfit": 0.7027384346857285,
+    "lastDetected": "2025-03-15T01:43:17.477Z"
+  },
+  "Drift→Jupiter": {
+    "opportunities": 2,
+    "totalProfit": 1.4185272102759947,
+    "tokens": {
+      "SOL": {
+        "count": 2,
+        "totalProfit": 1.4185272102759947
+      }
+    },
+    "lastProfit": 0.7027384346857285,
+    "lastDetected": "2025-03-15T01:43:17.480Z"
+  },
+  "Drift→OpenBook": {
+    "opportunities": 2,
+    "totalProfit": 1.388088589946383,
+    "tokens": {
+      "SOL": {
+        "count": 2,
+        "totalProfit": 1.388088589946383
+      }
+    },
+    "lastProfit": 0.6726574057081252,
+    "lastDetected": "2025-03-15T01:43:17.476Z"
+  },
+  "Drift→Orca": {
+    "opportunities": 2,
+    "totalProfit": 1.426558890395505,
+    "tokens": {
+      "SOL": {
+        "count": 2,
+        "totalProfit": 1.426558890395505
+      }
+    },
+    "lastProfit": 0.7027384346857285,
+    "lastDetected": "2025-03-15T01:43:17.482Z"
+  },
+  "Drift→Meteora": {
+    "opportunities": 2,
+    "totalProfit": 1.4054430140318215,
+    "tokens": {
+      "SOL": {
+        "count": 2,
+        "totalProfit": 1.4054430140318215
+      }
+    },
+    "lastProfit": 0.6900118297935636,
+    "lastDetected": "2025-03-15T01:43:17.478Z"
+  },
+  "Drift→Phoenix": {
+    "opportunities": 1,
+    "totalProfit": 0.7068424415833701,
+    "tokens": {
+      "SOL": {
+        "count": 1,
+        "totalProfit": 0.7068424415833701
+      }
+    },
+    "lastProfit": 0.7068424415833701,
+    "lastDetected": "2025-03-15T01:43:17.479Z"
+  },
+  "Invariant→Orca": {
+    "opportunities": 2,
+    "totalProfit": 1.0902599164757296,
+    "tokens": {
+      "BONK": {
+        "count": 1,
+        "totalProfit": 0.5739821213973179
+      },
+      "WIF": {
+        "count": 1,
+        "totalProfit": 0.5162777950784119
+      }
+    },
+    "lastProfit": 0.5162777950784119,
+    "lastDetected": "2025-03-15T14:49:28.210Z"
+  },
+  "Invariant→Meteora": {
+    "opportunities": 2,
+    "totalProfit": 1.0902599164757296,
+    "tokens": {
+      "BONK": {
+        "count": 1,
+        "totalProfit": 0.5739821213973179
+      },
+      "WIF": {
+        "count": 1,
+        "totalProfit": 0.5162777950784119
+      }
+    },
+    "lastProfit": 0.5162777950784119,
+    "lastDetected": "2025-03-15T14:49:28.211Z"
+  },
+  "Invariant→Raydium": {
+    "opportunities": 2,
+    "totalProfit": 1.0892664814845618,
+    "tokens": {
+      "BONK": {
+        "count": 1,
+        "totalProfit": 0.5739821213973179
+      },
+      "WIF": {
+        "count": 1,
+        "totalProfit": 0.5152843600872441
+      }
+    },
+    "lastProfit": 0.5152843600872441,
+    "lastDetected": "2025-03-15T14:49:28.211Z"
+  },
+  "Invariant→OpenBook": {
+    "opportunities": 2,
+    "totalProfit": 1.0963496247172226,
+    "tokens": {
+      "BONK": {
+        "count": 1,
+        "totalProfit": 0.5800718296388108
+      },
+      "WIF": {
+        "count": 1,
+        "totalProfit": 0.5162777950784119
+      }
+    },
+    "lastProfit": 0.5162777950784119,
+    "lastDetected": "2025-03-15T14:49:28.206Z"
+  },
+  "Invariant→Jupiter": {
+    "opportunities": 2,
+    "totalProfit": 1.0902599164757296,
+    "tokens": {
+      "BONK": {
+        "count": 1,
+        "totalProfit": 0.5739821213973179
+      },
+      "WIF": {
+        "count": 1,
+        "totalProfit": 0.5162777950784119
+      }
+    },
+    "lastProfit": 0.5162777950784119,
+    "lastDetected": "2025-03-15T14:49:28.210Z"
+  },
+  "Kamino→OpenBook": {
+    "opportunities": 1,
+    "totalProfit": 0.5025875235817049,
+    "tokens": {
+      "WIF": {
+        "count": 1,
+        "totalProfit": 0.5025875235817049
+      }
+    },
+    "lastProfit": 0.5025875235817049,
+    "lastDetected": "2025-03-15T15:34:40.693Z"
+  },
+  "Kamino→Orca": {
+    "opportunities": 1,
+    "totalProfit": 0.5027912536560849,
+    "tokens": {
+      "WIF": {
+        "count": 1,
+        "totalProfit": 0.5027912536560849
+      }
+    },
+    "lastProfit": 0.5027912536560849,
+    "lastDetected": "2025-03-15T15:34:40.700Z"
+  }
+}
